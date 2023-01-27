@@ -13,3 +13,5 @@ Have you ever been overwhelmed by the amount of tasks and chores you needed to c
 - Calendar
 
 ## Application Sketch
+
+![IMG_8399](https://user-images.githubusercontent.com/77896065/215166367-a3ea46b3-d454-4ec9-ad80-cac76c54df96.jpg)
