@@ -11,3 +11,5 @@ Have you ever been overwhelmed by the amount of tasks and chores you needed to c
 - Customize interface
 - Set reminders
 - Calendar
+
+## Application Sketch
