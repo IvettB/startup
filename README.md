@@ -21,3 +21,13 @@ Have you ever been overwhelmed by the amount of tasks and chores you needed to c
 The Simon-html assignment was the most tricky and diffciult assignment that I completed in this class so far. I had issues with cloning a repository into another repository. For some reason, they didn't sinc up, so whatever changes I made in my decelopment environment, I couldn't push to GitHub. Eventually with the help of some TAs I was able to figure out the issue. DO NOT clone a repository into another one. Just download the zip and paste the files into one repository. This solves all the issues and everything syncs perfectly. 
 
 Something else I learned was that web development is very tedious. For some reason, I expected that if I make a change in one of the html files, it would show up on the other pages too, as long as what I changed is a shared attribute across all pages. This was not at all the case. You need to go into every file and change everything one by one.
+
+# What I learned during the Simon-CSS assignment
+
+The Simon-CSS assignment was quite tricky and it took me longer than expdcted to complete. Web Programming it not easy, and one small mistake can break the whole website. I also had issues with committing and pushing the changes to my git repository, even though I thought I figured out these issues last time. Eventually, I was able to just create my own files and copy and paste any code into them wirhout cloning the repository from the CS 260 repository.
+
+Bootstrap is very useful, but I am learning that it does have its limitations. Even though I worked many hours on my Simon CSS, I do feel like it doesn't look much different from the original example. This makes it a little boring and not so fun. 
+
+Notes:
+- Use "justify-content" to fix dynamic issues: like when the page looks funny in a smaller window
+- Don't forget that if you change something on one of the pages, it doesn't change in the other pages
