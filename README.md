@@ -31,3 +31,15 @@ Bootstrap is very useful, but I am learning that it does have its limitations. E
 Notes:
 - Use "justify-content" to fix dynamic issues: like when the page looks funny in a smaller window
 - Don't forget that if you change something on one of the pages, it doesn't change in the other pages
+
+# Reflecting on Startup HTML and CSS
+
+The Startup HTML and CSS assignment was a big milestone and a great learning experience. My main goal was to have fun and push myself to do the best I can and deliver the best possible looking website. Something I have realized during the development process is that at times it is difficult to imagine what the end result will look like. 
+
+Notes:
+- Always take it one task at the time
+- Remember that your files aren't automatically linked
+- When you create deployFiles.sh, you need to modify accessibility in the terminal (Otherwise you can't deploy to your server)
+- Git push often! It is a way to double save your work
+- If you have difficulties with your development environment, copy everything to CodePen and keep working until help arrives
+- Don't worry too much about what isn't required now. JavaScript will make everything better.
