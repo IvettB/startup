@@ -43,3 +43,7 @@ Notes:
 - Git push often! It is a way to double save your work
 - If you have difficulties with your development environment, copy everything to CodePen and keep working until help arrives
 - Don't worry too much about what isn't required now. JavaScript will make everything better.
+
+# Simon JavaScript
+
+This assignment was much harder than I expected. Initially, I attempted to write JavaScript from scratch, but nothing worked for hours. I didn't realize that it wasn't enough to just make new functions in JavaScript. Everything needs to be referenced in the HTML files as well. This made the assignment from scratch extremely difficult. I ended up cloning the example repo and worked on understanding the code rather than creating everything from scratch. It was overall a great learning experience, but this assignment definitely made me nervous about my startup JavaScript.
