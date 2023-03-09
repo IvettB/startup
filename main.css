@@ -81,6 +81,11 @@ li {
 
 }
 
+#userInput {
+	font-family:'Times New Roman', Times, serif;
+	font-size: large;
+}
+
 li:hover {
 	background: #C9C9C9;
 }
