@@ -1,58 +1,24 @@
 <!doctype html>
 <html>
-	<head>
-		<title>Do today</title>
-		<link rel="stylesheet" href="main.css">
-	</head>
-	<body>
-	<div class="container">
-		<div class="row">
-			<div class="intro col-12">
-				<h1>Work To-Dos</h1>
-				<div>
-					<div class="border1"></div>
-					<div c
-				</div>
-			</div>
-		</div>
+    <head>
+    <script src="login.js"></script>
+    <link rel="stylesheet" href="main.css" />
+    </head>
+    <body>
+        <h1>Welcome</h1>
+        <p>Login to play</p>
+        <div>
+          <input type="text" id="name" placeholder="Your name here" />
+          <button class="btn btn-primary" onclick="login()">Login</button>
+        </div>
+      </div>
 
-		<div class="row">
-			<div class="helpText col-12">
-				<p id="first">• Add a task by entering it into the box</p>
-				<p id="second">• Click the button on the right to add your item to the list</p>
-				<p id="second">• Click on the task to mark it complete</p>
-				<p id="third">• Click the "X" to delete a task</p>
-			</div>
-		</div>
-
-		<div class="row">
-			<div class="col-12">
-				<input id="userInput" type="text" placeholder="New item..." maxlength="27">
-				<button id="enter"><img src="arrow.png" alt="submit-button" width="20px" height="20px"/>
-					<i class="fas fa-pencil-alt"></i></button>
-			</div>
-		</div>
-
-		<!-- Empty List -->
-		<div class="row">
-			<div class="listItems col-12">
-				<ul class="col-12 offset-0 col-sm-8 offset-sm-2">
-				</ul>
-			</div>
-		</div>
+      <footer>
+        <hr />
+        <span>Ivett Betlej</span>
+        <br />
+        <a href="https://github.com/IvettB/startup">GitHub</a>
+      </footer>
       
- <!-- CALENDAR -->
-<div class="calendar-wrapper">
-  <div id="divCal"></div>
-</div>
-	</div>
-	<script type="text/javascript" src="javascript.js"></script>
-    
-    <footer>
-      <hr />
-      <span>Ivett Betlej</span>
-      <br />
-      <a href="https://github.com/IvettB/startup">GitHub</a>
-    </footer>
-</body>
+    </body>
 </html>
