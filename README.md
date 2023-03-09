@@ -47,3 +47,15 @@ Notes:
 # Simon JavaScript
 
 This assignment was much harder than I expected. Initially, I attempted to write JavaScript from scratch, but nothing worked for hours. I didn't realize that it wasn't enough to just make new functions in JavaScript. Everything needs to be referenced in the HTML files as well. This made the assignment from scratch extremely difficult. I ended up cloning the example repo and worked on understanding the code rather than creating everything from scratch. It was overall a great learning experience, but this assignment definitely made me nervous about my startup JavaScript.
+
+# Startup JavaScript
+
+This has been a tremendous task, and it feels great to be done with it. It's interesting to realize that even a simple website takes a long time and quite a lot of practice to make. I had to derail from my original startup application, because as I was creating my website, I realized my plan was way beyong the scope of this class. Instead, I'm creating a simpler, but still fun website. I added some extras and quirks that I found really fun to work on.
+
+Notes:
+- It always takes longer than expected
+- Save yourself some time and when you start working on an additional project, jut clone your repo and start on a fresh page
+- Padding, padding, padding! It makes everything look better and more clean
+- When the expected item doesn't change on the interface after you saved and deployed, STOP! You are likely editing the wrong class!
+- Don't be sad because your website doesn't look like a million bucks. Keep learning
+- Don't use the same class twice in CSS, it messes things up
