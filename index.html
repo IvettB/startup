@@ -1,12 +1,8 @@
-<head>
-    <link rel="stylesheet" type="text/css" href="main.css" />
-</head>
-
 <body>
 	<div class="container">
 		<div class="row">
 			<div class="intro col-12">
-				<h1>Today's To-Dos</h1>
+				<h1>Work To-Dos</h1>
 				<div>
 					<div class="border1"></div>
 					<div c
@@ -28,18 +24,29 @@
 				<button id="enter"><i class="fas fa-pencil-alt"></i></button>
 			</div>
 		</div>
+
+		<!-- Empty List -->
+		<div class="row">
+			<div class="listItems col-12">
+				<ul class="col-12 offset-0 col-sm-8 offset-sm-2">
+				</ul>
+			</div>
+		</div>
+      
+ <!-- CALENDAR -->
+<div class="calendar-wrapper">
+  <button id="btnPrev" type="button">Prev</button>
+	  <button id="btnNext" type="button">Next</button>
+  <div id="divCal"></div>
+</div>
 	</div>
+	<script type="text/javascript" src="script_method3.js"></script>
     
-    <div id="calendar">
-        <h2>March</h2>
-        <table>
-          <tr><td class="lastmonth">30</td><td>1</td><td>2</td><td>3</td><td class="hastask">4</td><td>5</td><td>6</td></tr>
-          <tr><td>7</td><td class="hastask">8</td><td class="hastask">9</td><td>10</td><td>11</td><td class="hastask">12</td><td>13</td></tr>
-          <tr><td>14</td><td class="hastask">15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td></tr>
-          <tr><td class="hastask">21</td><td>22</td><td>23</td><td class="current">24</td><td>25</td><td class="hastask">26</td><td>27</td></tr>
-          <tr><td>28</td><td>29</td><td class="hastask">30</td><td>31</td><td class="nextmonth">1</td><td>2</td><td>3</td></tr>
-        </table>
-      </div>
-    
+    <footer>
+      <hr />
+      <span>Ivett Betlej</span>
+      <br />
+      <a href="https://github.com/IvettB/startup">GitHub</a>
+    </footer>
 </body>
 </html>
