@@ -40,8 +40,8 @@ p {
 	border: none;
 	padding: 5px 15px;
 	border-radius: 5px;
-	color: #C9ADA7;
-	background-color: #22223B;
+	color: #392F5A;
+	background-color: #8A8C8E;
 	transition: all 0.75s ease;
 	-webkit-transition: all 0.75s ease;
 	-moz-transition: all 0.75s ease;
@@ -51,7 +51,7 @@ p {
 }
 
 #enter:hover{
-	background-color: #7C616C;
+	background-color: #392F5A;
 	color: #5B5B5B;
 }
 
