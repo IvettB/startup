@@ -59,3 +59,21 @@ Notes:
 - When the expected item doesn't change on the interface after you saved and deployed, STOP! You are likely editing the wrong class!
 - Don't be sad because your website doesn't look like a million bucks. Keep learning
 - Don't use the same class twice in CSS, it messes things up
+
+# Simon Service
+
+The service assignments prove to be rather difficult for me. It is a tideous and long process, and I'm still just wrapping my head around why it is so useful, and why we should use it if we aren't working with a large database. 
+
+Necessary steps:
+- Move all files to public 
+- Configure directory to work with node.js
+- Install express package
+- Create entry point file for node.js
+- Add Express JS
+- Save and deploy to production environment
+
+Notes:
+- VS Code acts up sometimes! Fix: Close all projects, and completely reopen and reset settings
+- Server issues: Go to AWS website, stop running, and then restart after a minute. Before deploying to production environment, always check if server is up and running
+- ALWAYS make sure you're in the right directory before doing anything
+- Pulling requests from third party sometimes takes a minute. Be patient before panicking and thinking there are errors
