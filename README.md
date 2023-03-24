@@ -77,3 +77,30 @@ Notes:
 - Server issues: Go to AWS website, stop running, and then restart after a minute. Before deploying to production environment, always check if server is up and running
 - ALWAYS make sure you're in the right directory before doing anything
 - Pulling requests from third party sometimes takes a minute. Be patient before panicking and thinking there are errors
+
+# Simon DB
+
+This assignment has taught me a lot, but also took way longer than expected. The more third party applications we're using, the more complex the code and execution gets, and it takes time learning how everything works together. 
+
+Necessary steps:
+- Clone repo 
+- (Get familiar with the code, experiment and learn)
+- Enter MongoDB credentials into database.js -> tip: just delete all the brackets and copy and paste the url
+- Ssh deploy to production environment
+- TEST to make sure everything works
+
+Useful git commands:
+- pm2 delete simon
+- pm2 start index.js -n simon -- 3000
+- cd services/simon
+- exit
+- :wq
+- vi
+- ctrl + C
+- ssh -i ~/Desktop/kakaoscsiga.pem ubuntu@dotoday.click
+
+Notes:
+- If the whole simon production is down: need to fix credentials in database.js
+- If the scores aren't getting stored correctly or at all: MONDODB DATABASE ISSUE
+- Make sure IP address is 0.00.0... -> EVERYONE CAN CONNECT!!!
+- Why are my scores stored on local host, but not when deployed? -> YOUR SERVER HAS A DIFFERENT IP ADDRESS THAN LOCAL!
