@@ -104,3 +104,14 @@ Notes:
 - If the scores aren't getting stored correctly or at all: MONDODB DATABASE ISSUE
 - Make sure IP address is 0.00.0... -> EVERYONE CAN CONNECT!!!
 - Why are my scores stored on local host, but not when deployed? -> YOUR SERVER HAS A DIFFERENT IP ADDRESS THAN LOCAL!
+
+# Simon login
+
+As usual, this assignment also had some hidden features that were somewhat difficult to figure out. Yet it was a great learning expereince and I feel like I'm starting to understand how data is stored and called, and how web applicatons manage unsers and sensitive information. Learning about databases and uniquie keys also makes me more hesitant about wanting to give out so much personal information when registering to certain applications.
+
+Notes:
+- "Go Live" will not work anymore from VS code. Do instead: terminal->node index.js then open browser and host there
+- If deploy ssh doesn't work, do the following commands in terminal:
+- ssh -i  ~/Desktop/kakaoscsiga.pem ubuntu@dotoday.click
+- pm2 delete whatever is running and shouldn't
+- pm2 start the correct file
