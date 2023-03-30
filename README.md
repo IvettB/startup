@@ -115,3 +115,7 @@ Notes:
 - ssh -i  ~/Desktop/kakaoscsiga.pem ubuntu@dotoday.click
 - pm2 delete whatever is running and shouldn't
 - pm2 start the correct file
+
+# Simon WebSocket
+
+I am finally starting to get a hang of working with third party databases. The WebSocket assignment was very fun, and I had a great time exploring what every function did and how things come together. I never really understood before how private messaging and information happens on the web, and this assignment enlighetend me about the process. I found it interesting that a websocket is technically a "channel," and only pre-specified members can have access to anything going through that channel. It's also fascinating that sending messages through this websocket works in a way that the message is pushed into this "channel," and everyone receives it, except for the sender.
