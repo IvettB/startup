@@ -123,3 +123,12 @@ I am finally starting to get a hang of working with third party databases. The W
 # Startup service
 
 This is where my notes will go after finishing the startup service.
+
+# Simon React
+
+As the semester comes to an end, it's great to reflect on all the things I've learned. I think a lot of things up to this point led up to React. If I had to learn React before getting a proper introduction to JavaScript, it would've been a lot more diffcult to take in. The Simon React assignment was very interesting, and I learned how to implement the same thing in a different, more efficient way. The Simon website looks the same, it functions the same, but the code is brand new, and that's something I really appreciate about web development. There are many ways to find solutions to problems.
+
+Notes:
+- Make sure that all packages are properly installed before deploying to your development environment!
+- React takes longer than regular JavaScript. Computer is thinking for a lot longer before executing a command
+- If errors occur: check your EW2 server, check packages, and take it from there
