@@ -1,10 +1,10 @@
 body {
-  font-family:Roboto Condensed
+  font-family: 'Gill Sans', sans-serif
 }
 
 header {
   height:15px;
-  background-color:#FEEF63;
+  background-color: red;
   border-bottom: 1px solid #333;
  
 }
