@@ -135,6 +135,14 @@ Notes:
 
 # Startup React
 
+React is definitely time consuming and difficult to learn, but it has been very interesting and enjoyable to try new things and see how they turn out. My goal for this deliverable was to recreate as much of my website as possible using React only. I have taken on quite the challenge, but it has been an amazing learning opportunity. I was able to implement the main functionality of my website, which is a simple but useful to-do list. The CSS proved to be more difficult than expected. I still haven't figured out why some of my CSS didn't translate and didn't implement, while other parts did. 
+
+Notes: 
+- Hosting it on port 4000 was a useful tip, this way my Simon project wasn't disturbed
+- Make sure to "npm start" from the right folder. Changes will not show up if you're in the wrong folder or don't terminate and rerun 
+- Copy files from one folder to another in Finder, nowhere else
+- To make sure there's no github issues, create a copy of startup folder, delete old files in it, copy and paste new files. This way your new project will be connected to Github
+
 
 # Getting Started with Create React App
 
